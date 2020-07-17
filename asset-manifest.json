@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/TreeViewreact/static/js/main.107ced22.chunk.js",
+    "main.js.map": "/TreeViewreact/static/js/main.107ced22.chunk.js.map",
+    "runtime-main.js": "/TreeViewreact/static/js/runtime-main.ae1efbc9.js",
+    "runtime-main.js.map": "/TreeViewreact/static/js/runtime-main.ae1efbc9.js.map",
+    "static/js/2.ca17876c.chunk.js": "/TreeViewreact/static/js/2.ca17876c.chunk.js",
+    "static/js/2.ca17876c.chunk.js.map": "/TreeViewreact/static/js/2.ca17876c.chunk.js.map",
+    "index.html": "/TreeViewreact/index.html",
+    "precache-manifest.cbbd8f9779dcc5c9b5ca9510273bfb3c.js": "/TreeViewreact/precache-manifest.cbbd8f9779dcc5c9b5ca9510273bfb3c.js",
+    "service-worker.js": "/TreeViewreact/service-worker.js",
+    "static/js/2.ca17876c.chunk.js.LICENSE.txt": "/TreeViewreact/static/js/2.ca17876c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1efbc9.js",
+    "static/js/2.ca17876c.chunk.js",
+    "static/js/main.107ced22.chunk.js"
+  ]
+}
